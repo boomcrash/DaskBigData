@@ -1,0 +1,7 @@
+descarga el dataset y agregalo a la ruta principal del proyecto
+    - https://ugye-my.sharepoint.com/:x:/g/personal/milton_elizaldeg_ug_edu_ec/EVkrZwZRMLxJm7lGi4gwHuYBsMitGsQoIk6EFIb3EPPZRw?e=6dtIe1
+
+
+Descarga de aqui el archivo "male_players.csv":
+
+    - Fuente original: https://www.kaggle.com/datasets/stefanoleone992/fifa-23-complete-player-dataset?resource=download&select=male_players.csv
