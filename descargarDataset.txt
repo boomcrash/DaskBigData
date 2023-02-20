@@ -1,5 +1,5 @@
 descarga el dataset y agregalo a la ruta principal del proyecto
-    - https://ugye-my.sharepoint.com/:x:/g/personal/milton_elizaldeg_ug_edu_ec/EVkrZwZRMLxJm7lGi4gwHuYBsMitGsQoIk6EFIb3EPPZRw?e=6dtIe1
+    - https://ugye-my.sharepoint.com/:f:/g/personal/milton_elizaldeg_ug_edu_ec/Em3uFXjbRMNCrmpLgm1vVYYBfZdW-LOmqzdeveUUzU1_Hw?e=oTONz6
 
 
 Descarga de aqui el archivo "male_players.csv":
